@@ -1,5 +1,7 @@
 # Awesome Productivity Subreddits
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 The communities where productivity-app users hate productivity apps, where one founder built a $341K ARR business by writing 500+ comments before posting once, and where most "best productivity subreddits" lists send you to the wrong subs. Curated for Heads of Growth, marketers, and founders at productivity SaaS companies.
 
 > **About this list.** Maintained by [Soar](https://soar.sh). We sell Reddit accounts and run engagement campaigns for B2B and consumer brands, so we have direct skin in the game on what works in these communities. The commentary on mod culture, removal rates, and what gets banned comes from running real campaigns across hundreds of subreddits, not desk research.
