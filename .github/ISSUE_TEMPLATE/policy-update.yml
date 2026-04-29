@@ -1,0 +1,44 @@
+name: Report a policy or moderation change
+description: Flag a subreddit on this list whose rules, status, or tone has shifted.
+title: "[Policy change] r/<subreddit-name>"
+labels: ["policy-change"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this when a listed subreddit has changed in a way that affects how (or whether) practitioners should engage. Examples: new self-promo ban, gone private, mod team changed, content rules tightened, clearly hostile to outside voices.
+  - type: input
+    id: subreddit
+    attributes:
+      label: Subreddit
+      description: Full handle including the r/ prefix.
+      placeholder: r/example
+    validations:
+      required: true
+  - type: dropdown
+    id: change_type
+    attributes:
+      label: Type of change
+      options:
+        - Subreddit went private or restricted
+        - Subreddit was banned, quarantined, or shut down
+        - New posting rule (self-promo, AI content, links, etc.)
+        - Mod team changed; tone shifted
+        - Activity collapsed (no recent posts or comments)
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Link to the rule page, mod post, deletion notice, or recent activity. Direct links beat screenshots.
+    validations:
+      required: true
+  - type: textarea
+    id: recommendation
+    attributes:
+      label: Recommendation
+      description: Should this entry be removed, demoted, annotated, or left in place with a caveat?
+    validations:
+      required: false
