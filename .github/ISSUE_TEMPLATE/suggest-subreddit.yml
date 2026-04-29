@@ -1,0 +1,43 @@
+name: Suggest a subreddit
+description: Propose a new subreddit to add to this list.
+title: "[Suggest] r/<subreddit-name>"
+labels: ["suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting a subreddit. Quick reminders:
+        1. The subreddit must be relevant to the vertical this list covers.
+        2. It must be active in the last 90 days (visible posts, comments, mods).
+        3. We do not list private, banned, or quarantined subreddits.
+  - type: input
+    id: subreddit
+    attributes:
+      label: Subreddit
+      description: Full handle including the r/ prefix.
+      placeholder: r/example
+    validations:
+      required: true
+  - type: input
+    id: members
+    attributes:
+      label: Member count
+      description: Approximate, from the sidebar or a recent stats page.
+      placeholder: 12,400
+    validations:
+      required: true
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Why this fits the list
+      description: Two or three sentences. What is this community for, and why does it belong on this list rather than a more general one?
+      placeholder: A specific community for X, where Y conversation happens. Mods are active; rules clearly favor practitioner content.
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Posting rules worth knowing
+      description: Any quirks future operators should know before posting (no self-promo, weekly threads only, requires flair, etc.).
+    validations:
+      required: false
