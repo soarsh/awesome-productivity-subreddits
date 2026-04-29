@@ -1,6 +1,4 @@
-# Awesome Productivity Subreddits
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Productivity Subreddits [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 The communities where productivity-app users hate productivity apps, where one founder built a $341K ARR business by writing 500+ comments before posting once, and where most "best productivity subreddits" lists send you to the wrong subs. Curated for Heads of Growth, marketers, and founders at productivity SaaS companies.
 
@@ -15,20 +13,20 @@ The communities where productivity-app users hate productivity apps, where one f
 - [Who this list is for](#who-this-list-is-for)
 - [How we picked these eight](#how-we-picked-these-eight)
 - [The shortlist](#the-shortlist)
-  1. [r/productivity](#1-rproductivity)
-  2. [r/getdisciplined](#2-rgetdisciplined)
-  3. [r/Entrepreneur](#3-rentrepreneur)
-  4. [r/ADHD](#4-radhd)
-  5. [r/selfimprovement](#5-rselfimprovement)
-  6. [r/GetMotivated](#6-rgetmotivated)
-  7. [r/LifeProTips](#7-rlifeprotips)
-  8. [r/coolguides](#8-rcoolguides)
+  - [r/productivity](#rproductivity)
+  - [r/getdisciplined](#rgetdisciplined)
+  - [r/Entrepreneur](#rentrepreneur)
+  - [r/ADHD](#radhd)
+  - [r/selfimprovement](#rselfimprovement)
+  - [r/GetMotivated](#rgetmotivated)
+  - [r/LifeProTips](#rlifeprotips)
+  - [r/coolguides](#rcoolguides)
 - [Posting playbook for productivity-tool marketers](#posting-playbook-for-productivity-tool-marketers)
 - [FAQ](#faq)
 - [Subreddits we considered and didn't include](#subreddits-we-considered-and-didnt-include)
 - [Further reading](#further-reading)
 - [Related lists](#related-lists)
-- [License](#license)
+- [Live version with brand-mention data](#live-version-with-brand-mention-data)
 
 ---
 
@@ -57,9 +55,9 @@ A note on the soar shortlist composition: it heavily over-indexes on broad self-
 
 ## The shortlist
 
-### 1. r/productivity
+### r/productivity
 
-**~1.7–1.9M subscribers · [reddit.com/r/productivity](https://www.reddit.com/r/productivity/)**
+~1.7–1.9M subscribers · [reddit.com/r/productivity](https://www.reddit.com/r/productivity/)
 
 Founded 2008. The community describes itself as a place where members "exchange ideas, tips, and strategies to increase productivity and reach their goals." The most relevant general productivity sub for tool marketers, and the canonical case study sub.
 
@@ -69,9 +67,9 @@ Founded 2008. The community describes itself as a place where members "exchange 
 
 ---
 
-### 2. r/getdisciplined
+### r/getdisciplined
 
-**~1.4–2M subscribers · [reddit.com/r/getdisciplined](https://www.reddit.com/r/getdisciplined/)**
+~1.4–2M subscribers · [reddit.com/r/getdisciplined](https://www.reddit.com/r/getdisciplined/)
 
 Founded September 2012. Self-described as "for people who have issues with procrastination, motivation, and discipline." The Outline's 2018 piece described the community as having "indiscriminate warmth," focused on "gradual, incremental change."
 
@@ -81,9 +79,9 @@ Founded September 2012. Self-described as "for people who have issues with procr
 
 ---
 
-### 3. r/Entrepreneur
+### r/Entrepreneur
 
-**~5M subscribers · [reddit.com/r/Entrepreneur](https://www.reddit.com/r/Entrepreneur/)**
+~5M subscribers · [reddit.com/r/Entrepreneur](https://www.reddit.com/r/Entrepreneur/)
 
 The single best sub for productivity tools targeting the founder/builder/operator persona. Heavily moderated. Designated "Self-Promotion Saturday" thread is the only sanctioned promo channel.
 
@@ -93,9 +91,9 @@ The single best sub for productivity tools targeting the founder/builder/operato
 
 ---
 
-### 4. r/ADHD
+### r/ADHD
 
-**~1.0–1.5M subscribers · [reddit.com/r/ADHD](https://www.reddit.com/r/ADHD/)**
+~1.0–1.5M subscribers · [reddit.com/r/ADHD](https://www.reddit.com/r/ADHD/)
 
 The most aggressively moderated sub on this list and one of the most ethically charged communities for productivity-tool marketers. Hit 1M members in October 2020.
 
@@ -105,9 +103,9 @@ The most aggressively moderated sub on this list and one of the most ethically c
 
 ---
 
-### 5. r/selfimprovement
+### r/selfimprovement
 
-**~1.7–2.5M subscribers · [reddit.com/r/selfimprovement](https://www.reddit.com/r/selfimprovement/)**
+~1.7–2.5M subscribers · [reddit.com/r/selfimprovement](https://www.reddit.com/r/selfimprovement/)
 
 Founded 2008. Generalist self-help sub. Less famously strict than r/getdisciplined but rule enforcement is consistent.
 
@@ -117,9 +115,9 @@ Founded 2008. Generalist self-help sub. Less famously strict than r/getdisciplin
 
 ---
 
-### 6. r/GetMotivated
+### r/GetMotivated
 
-**~17.6–20.1M subscribers · [reddit.com/r/GetMotivated](https://www.reddit.com/r/GetMotivated/)**
+~17.6–20.1M subscribers · [reddit.com/r/GetMotivated](https://www.reddit.com/r/GetMotivated/)
 
 Founded 2010. One of Reddit's largest defaults. Sidebar dominated by post-flair requirements ([Image], [Video], [Story], [Text]).
 
@@ -129,9 +127,9 @@ Founded 2010. One of Reddit's largest defaults. Sidebar dominated by post-flair 
 
 ---
 
-### 7. r/LifeProTips
+### r/LifeProTips
 
-**~20.7–23.8M subscribers · [reddit.com/r/LifeProTips](https://www.reddit.com/r/LifeProTips/)**
+~20.7–23.8M subscribers · [reddit.com/r/LifeProTips](https://www.reddit.com/r/LifeProTips/)
 
 Founded 2010. Default sub. The most cautionary controversy on this list.
 
@@ -141,9 +139,9 @@ Founded 2010. Default sub. The most cautionary controversy on this list.
 
 ---
 
-### 8. r/coolguides
+### r/coolguides
 
-**~2.6M subscribers · [reddit.com/r/coolguides](https://www.reddit.com/r/coolguides/)**
+~2.6M subscribers · [reddit.com/r/coolguides](https://www.reddit.com/r/coolguides/)
 
 Founded 2014 by user "Dadschool" who is still head moderator. The sub is for "cool guides": visual one-page references and infographics.
 
@@ -177,32 +175,25 @@ The honest summary: productivity-tool marketing on Reddit works on a 6–9 month
 
 ## FAQ
 
-### Why isn't r/productivityapps on the main list?
-
+### Why isn't r/productivityapps on the main list
 It probably should be. r/productivityapps is the spin-off sub r/productivity created specifically for app discussion; it's the single highest-intent productivity-tool sub on Reddit, dropped from r/productivity for "what should I use?" threads. Soar's current shortlist doesn't include it, and we'd add it as a 9th sub for any productivity-tool-specific marketer plan. Marketers should be there daily.
 
-### What's the realistic timeline before Reddit produces leads for a productivity SaaS?
-
+### What's the realistic timeline before Reddit produces leads for a productivity SaaS
 Six to nine months from first comment to first measurable lead. The Hashmeta case study took 9 months to reach $341K ARR. Alex Chen's Reddit Toolbox attribution (23% of signups) was at 3 months but with daily 30-minute investment. If your runway is shorter than three months, prioritize Reddit Ads and skip organic for now.
 
-### Should we build our own branded subreddit?
-
+### Should we build our own branded subreddit
 Maybe, eventually, but it's a 5-year commitment, not a campaign. r/Notion, r/1Password, r/ClickUp work because the brands have earned multi-year community legitimacy elsewhere first. Most productivity-tool marketers don't have the appetite for that, and the editorial honest answer is to monitor whether an unofficial sub already exists for your brand and engage transparently there if so.
 
-### Is r/ADHD ethical to market in?
-
+### Is r/ADHD ethical to market in
 Yes if you operate by ADHD-community ethics: do not claim treatment, do not pay influencers without disclosure, do not target ADHD-diagnosis ads, do not frame productivity as moral worth. No if you can't commit to those constraints. The community has explicit defenses against being treated as a captive audience of high-intent buyers, and the mods are publicly aggressive about enforcement (see the ADDitude case).
 
-### What gets a productivity-tool marketer permabanned?
-
+### What gets a productivity-tool marketer permabanned
 Three patterns: (1) creating sock-puppet accounts to upvote your own posts (vote manipulation, the most severe site-wide offense), (2) sustained breach of the 90/10 ratio without disclosure (shadow-throttling first, then cross-sub coordination by mods who've identified you), and (3) any pattern that resembles MLM (referral programs, "share with a friend for credit," coach-tier marketing).
 
-### What about Reddit Ads for productivity tools?
-
+### What about Reddit Ads for productivity tools
 Reddit Ads work well for productivity tools when creative is in-culture (memes, screenshot-style ads, problem-statement copy) and targeting is sub-specific. The trap is treating Reddit Ads like LinkedIn Ads with corporate creative; the audience eats that for breakfast. Promoted Posts amplifying organic content already performing in r/productivity or r/getdisciplined is reportedly one of the best Reddit Ads patterns.
 
-### Can a tool with no free tier succeed on Reddit?
-
+### Can a tool with no free tier succeed on Reddit
 Harder, but yes. The Hashmeta case study app charges $12/mo or $99/yr. The successful pattern: lead with the methodology (which is free to discuss), let users adopt the methodology, then mention the tool as one implementation among several. Tools with no free tier need to be 10× better at the methodology framing because they can't lean on "and it's free to try."
 
 ---
@@ -228,22 +219,22 @@ A note on what's not here and why, since most "best of" lists don't show their w
 
 ## Further reading
 
-- [Hashmeta: How a Productivity App Generated 47,200 Monthly Visits from Reddit in 9 Months](https://hashmeta.com/insights/case-study-reddit-seo-traffic-growth). The most-cited Reddit-for-productivity case study with full numbers.
-- [Indie Hackers: How I Finally Made Reddit Work for My SaaS (Alex Chen)](https://www.indiehackers.com/post/how-i-finally-made-reddit-work-for-my-saas-after-2-months-of-failure-5b4553f8c3). The 0-5 comment targeting tactic and the comment-first playbook.
-- [The Outline: A Good Place, Where motivation fails discipline succeeds (r/getdisciplined)](https://theoutline.com/post/7519/a-good-place-where-motivation-fails-discipline-succeeds). Sub culture and the "indiscriminate warmth" framing.
-- [ADDitude Magazine: ADHD Subreddit Censors ADDitude Information, Links](https://www.additudemag.com/adhd-reddit-moderators-censor-additude/). The canonical example of r/ADHD's editorial aggression.
-- [Foundation Inc: 1Password's Reddit-Based Approach to User Retention](https://foundationinc.co/lab/vol-237/). The case study on brand-owned subreddits as retention surfaces.
-- [SaasClub: Amir Salihefendic / Doist interview](https://saasclub.io/podcast/amir-salihefendic-doist-part1/). Todoist's organic-Reddit-attributed early growth.
-- [Hacker News: r/LifeProTips creator ban thread](https://news.ycombinator.com/item?id=10998451). The original founder-ban story that explains the sub's strict no-product rule.
+- [Hashmeta: How a Productivity App Generated 47,200 Monthly Visits from Reddit in 9 Months](https://hashmeta.com/insights/case-study-reddit-seo-traffic-growth) - The most-cited Reddit-for-productivity case study with full numbers.
+- [Indie Hackers: How I Finally Made Reddit Work for My SaaS (Alex Chen)](https://www.indiehackers.com/post/how-i-finally-made-reddit-work-for-my-saas-after-2-months-of-failure-5b4553f8c3) - The 0-5 comment targeting tactic and the comment-first playbook.
+- [The Outline: A Good Place, Where motivation fails discipline succeeds (r/getdisciplined)](https://theoutline.com/post/7519/a-good-place-where-motivation-fails-discipline-succeeds) - Sub culture and the "indiscriminate warmth" framing.
+- [ADDitude Magazine: ADHD Subreddit Censors ADDitude Information, Links](https://www.additudemag.com/adhd-reddit-moderators-censor-additude/) - The canonical example of r/ADHD's editorial aggression.
+- [Foundation Inc: 1Password's Reddit-Based Approach to User Retention](https://foundationinc.co/lab/vol-237/) - The case study on brand-owned subreddits as retention surfaces.
+- [SaasClub: Amir Salihefendic / Doist interview](https://saasclub.io/podcast/amir-salihefendic-doist-part1/) - Todoist's organic-Reddit-attributed early growth.
+- [Hacker News: r/LifeProTips creator ban thread](https://news.ycombinator.com/item?id=10998451) - The original founder-ban story that explains the sub's strict no-product rule.
 
 ---
 
 ## Related lists
 
-- [Awesome Subreddits hub](https://github.com/soarsh/awesome-subreddits): index of all our curated lists.
-- [Awesome B2B SaaS Subreddits](https://github.com/soarsh/awesome-b2b-saas-subreddits): for productivity tools targeting business buyers.
-- [Awesome Developer Tools Subreddits](https://github.com/soarsh/awesome-developer-tools-subreddits): for productivity-adjacent dev tools (terminals, IDEs, CLI utilities).
-- [Awesome Healthtech Subreddits](https://github.com/soarsh/awesome-healthtech-subreddits): for ADHD telehealth and habit-formation apps with health framing.
+- [Awesome Subreddits hub](https://github.com/soarsh/awesome-subreddits) - Index of all our curated lists.
+- [Awesome B2B SaaS Subreddits](https://github.com/soarsh/awesome-b2b-saas-subreddits) - For productivity tools targeting business buyers.
+- [Awesome Developer Tools Subreddits](https://github.com/soarsh/awesome-developer-tools-subreddits) - For productivity-adjacent dev tools (terminals, IDEs, CLI utilities).
+- [Awesome Healthtech Subreddits](https://github.com/soarsh/awesome-healthtech-subreddits) - For ADHD telehealth and habit-formation apps with health framing.
 
 ## Live version with brand-mention data
 
@@ -255,6 +246,3 @@ The live page on Soar tracks which brands ChatGPT and Google AI Overviews cite a
 
 Spotted a missing subreddit, a stale removal-rate observation, or a mod-rule change? [Open an issue](../../issues) or [submit a PR](../../pulls). See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## License
-
-Content under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Copy, adapt, and republish freely. Attribution appreciated, not required.
